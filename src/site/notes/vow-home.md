@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vow-home/","tags":["gardenEntry"],"noteIcon":"3"}
+{"dg-publish":true,"permalink":"/vow-home/","tags":["gardenEntry"],"dgShowToc":"false","noteIcon":"3"}
 ---
 
 <img src="https://i.ibb.co/k6VJLMvT/durgapur-steel-plant-durgapur-west-bengal-city-hero.png" alt="durgapur-steel-plant-durgapur-west-bengal-city-hero" border="0">
@@ -15,4 +15,8 @@ However, I still write. I prepare notes of [[Problems\|coding problems]], [[DS N
 
 > [!quote-with-source] Socrates (from Plato's Apology)
 > The unexamined life is not worth living.
+<h4>Why a public blog?</h4>
 
+There's this idea that as social creatures, humans are driven toward empathy - that's giving and getting. A private journal gives you a way to express, examine, and crystallize your thoughts away from bias and premature judgement, but it doesn't demand the level of accountability and consideration of things shared with other thinking, feeling individuals. When blogging, the act of creating for a shared space forces me to think about what I'm doing, why I'm doing it, who I'm doing it for, and how I put it into action. 
+
+I also blog because I've been introduced to so many things via other people's blogs - things that made me look at life in new ways, and expand the boundaries of what I believe is possible. So, sharing is a way to contribute knowledge back into the pool, so others like me can find comfort. Also, this is a fast and noisy fucking world, and we all have to make it from birth to death in ways that suit us individually.
