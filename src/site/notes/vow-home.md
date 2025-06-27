@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/vow-home/","tags":["gardenEntry"],"dgShowToc":"false","noteIcon":"3"}
 ---
 
-<figure>
+<figure style="text-align: center;">
 <img src="https://cdn.allthepics.net/images/2025/06/27/durgapur-steel-plant-durgapur-west-bengal-city-hero.png" alt="durgapur steel plant durgapur west bengal city hero" border="0">
-<figcaption> Durgapur Steel Plant in the backdrop of Godavari river.</figcaption>
+<figcaption style="font-size: 0.85em; color: gray; margin-top: 5px;"> Durgapur Steel Plant in the backdrop of Godavari river.</figcaption>
 </figure>
 <h4>Hello everyone!</h4>
 
