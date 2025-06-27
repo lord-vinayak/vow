@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/vow-home/","tags":["gardenEntry"],"dgShowToc":"false","noteIcon":"3"}
 ---
 
-<img src="https://i.ibb.co/k6VJLMvT/durgapur-steel-plant-durgapur-west-bengal-city-hero.png" alt="durgapur-steel-plant-durgapur-west-bengal-city-hero" border="0">
+<a href="https://allthepics.net/image/durgapur-steel-plant-durgapur-west-bengal-city-hero.QXaXR"><img src="https://cdn.allthepics.net/images/2025/06/27/durgapur-steel-plant-durgapur-west-bengal-city-hero.png" alt="durgapur steel plant durgapur west bengal city hero" border="0"></a>
 <h4>Hello everyone!</h4>
 
 I'm [[About\|Vinayak]].
