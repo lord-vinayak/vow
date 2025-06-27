@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/vow-home/","tags":["gardenEntry"],"dgShowToc":"false","noteIcon":"3"}
 ---
 
-<a href="https://allthepics.net/image/durgapur-steel-plant-durgapur-west-bengal-city-hero.QXaXR"><img src="https://cdn.allthepics.net/images/2025/06/27/durgapur-steel-plant-durgapur-west-bengal-city-hero.png" alt="durgapur steel plant durgapur west bengal city hero" border="0"></a>
+![durgapur steel plant durgapur west bengal city hero](https://cdn.allthepics.net/images/2025/06/27/durgapur-steel-plant-durgapur-west-bengal-city-hero.png)
 <h4>Hello everyone!</h4>
 
 I'm [[About\|Vinayak]].
@@ -27,3 +27,7 @@ I also blog because I've been introduced to so many things via other people's bl
 >[!faq]- How is this site made?
 >Whole of this site is written in Markdown on Obsidian. It is published on web using Obsidian plugin [Digital Garden](https://dg-docs.ole.dev/) and hosted on [Vercel](https://vercel.com)
 .
+
+
+
+
