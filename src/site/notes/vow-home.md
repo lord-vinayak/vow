@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vow-home/","tags":["gardenEntry"],"dgShowToc":"false","noteIcon":"3"}
+{"dg-publish":true,"permalink":"/vow-home/","tags":["gardenEntry"],"noteIcon":"3"}
 ---
 
 <img src="https://i.ibb.co/k6VJLMvT/durgapur-steel-plant-durgapur-west-bengal-city-hero.png" alt="durgapur-steel-plant-durgapur-west-bengal-city-hero" border="0">
