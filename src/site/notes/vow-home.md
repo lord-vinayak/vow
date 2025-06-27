@@ -2,7 +2,10 @@
 {"dg-publish":true,"permalink":"/vow-home/","tags":["gardenEntry"],"dgShowToc":"false","noteIcon":"3"}
 ---
 
-![durgapur steel plant durgapur west bengal city hero](https://cdn.allthepics.net/images/2025/06/27/durgapur-steel-plant-durgapur-west-bengal-city-hero.png)
+<figure>
+<img src="https://cdn.allthepics.net/images/2025/06/27/durgapur-steel-plant-durgapur-west-bengal-city-hero.png" alt="durgapur steel plant durgapur west bengal city hero" border="0">
+<figcaption> Durgapur Steel Plant in the backdrop of Godavari river.</figcaption>
+</figure>
 <h4>Hello everyone!</h4>
 
 I'm [[About\|Vinayak]].
