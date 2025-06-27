@@ -3,7 +3,7 @@
 ---
 
 <img src="https://i.ibb.co/k6VJLMvT/durgapur-steel-plant-durgapur-west-bengal-city-hero.png" alt="durgapur-steel-plant-durgapur-west-bengal-city-hero" border="0">
-##### Hello everyone!
+#### Hello everyone!
 I'm [[About\|Vinayak]].
 I am a student, currently pursuing my <font color="#76923c">Bachelors</font> at [National Institute of Technology Durgapur](https://nitdgp.ac.in/).
 
