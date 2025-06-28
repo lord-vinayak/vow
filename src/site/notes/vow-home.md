@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vow-home/","tags":["gardenEntry"],"dgShowToc":"false","noteIcon":"3"}
+{"dg-publish":true,"permalink":"/vow-home/","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"3"}
 ---
 
 <figure style="text-align: center;">

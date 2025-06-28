@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/journey/","dgShowInlineTitle":"true","noteIcon":"3"}
+{"dg-publish":true,"permalink":"/journey/","dgShowInlineTitle":true,"noteIcon":"3"}
 ---
 
 I have completed my schooling from [Greenfields School](https://greenfieldsschool.org.in/). I passed my senior secondary examination in 2022 and started preparing for the infamous Joint Entrance Examination (JEE). I also joined [Aakash Institute](https://www.aakash.ac.in/) for a year and quickly realized I didn't need to. 
