@@ -15,6 +15,7 @@ This website was planned way back during my [highschool](https://greenfieldsscho
 Time flew very fast and I'm here at college - rarely taking any notes during my classes. Not because I don't enjoy it anymore - but due to the fact that every study material I go through, is already condensed - thereby, defeating the purpose of note taking. 
 
 However, I still write. I prepare notes of [[Problems\|coding problems]], [[DS Notes\|data structures]], [[Algorithms\|algorithms]], [[Tutorials\|tutorials]] which I encounter in my learning [[Journey\|journey]]. Here are some [[Quotes\|quotes]] I found worth noting down. Also, if you are interested, here are my [[Thoughts\|thoughts]] on various topics, which may or may not be offending.
+I also love to travel and [[Travel\|here]] you might find my some recollections or incidents. I still am chasing the goal of experiencing an European summer once in my *20s*, and have got exactly  ~~10~~ <font color="#c3d69b">9 summers</font> left to achieve that.
 
 > [!quote-with-source] Socrates (from Plato's Apology)
 > The unexamined life is not worth living.
